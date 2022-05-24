@@ -27,6 +27,7 @@ function akanName(){
 btn.addEventListener("click", () =>{
     if(dateEl.value == "" || gender.value == ""){
         err.style.display = "block";
+        message.innerHTML = ""
     }else{
         dayOfWeek()
         akanName()
