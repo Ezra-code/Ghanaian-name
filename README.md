@@ -1,4 +1,4 @@
-# Quiz Board
+# Akan Names
  ## By Ezra Njeru
 ## Screenshot
  ![image](./assets/images/snapshot.png)

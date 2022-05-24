@@ -14,7 +14,7 @@ function dayOfWeek() {
     let DD = parseInt(d.substring(8,10))
     
     let D = (((CC/4) - 2 * CC - 1) + ((5 * YY) / 4) + 26*(MM + 1)/10 + DD) % 7
-    dd = Math.floor(D)
+    dd = Math.floor(Math.abs(D))
 }
 function akanName(){
     if(gender.value == "female"){
