@@ -32,7 +32,7 @@ As a user of the application,you will be able to :
  ****
  [Go Back to the top](#Akan-Names)
 ### Live Link
-- Click this link to view the live application https://ezra-code.github.io/ghanaian-name/
+- Click this link to view the live application https://ezra-code.github.io/Ghanaian-name/
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
